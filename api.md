@@ -12,10 +12,7 @@
 | did | N | N | 用户唯一标识，iOS:uuid， Android:imei之类的 |
 | version | N | N | 系统版本 |
 | model | N | N | 手机型号 |
-| version | N | N | 系统版本 |
-| model | N | N | 手机型号 |
 | position | N | N | 位置信息，经纬度 |
-| model | N | N | 手机型号 |
 | appVersionName | N | N | app软件版本名 |
 | appVersionCode | N | N | app软件版本号 |
 
